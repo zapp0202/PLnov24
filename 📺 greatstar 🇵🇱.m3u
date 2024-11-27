@@ -1,0 +1,579 @@
+#            _____ _____   _____       _______                   
+#           / ____|  __ \ / ____|     |__   __|                  
+#          | |  __| |__) | (___          | | ___  __ _ _ __ ___  
+#          | | |_ |  ___/ \___ \         | |/ _ \/ _` | '_ ` _ \ 
+#          | |__| | |     ____) |        | |  __/ (_| | | | | | |
+#           \_____|_|    |_____/         |_|\___|\__,_|_| |_| |_|   
+#
+#EXTM3U8 url-tvg="https://gps-team.pl/epg.xml"
+#EXTM3U url-tvg="https://gps-team.pl/epg.xml"
+#EXTINF:0,TVP
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880504&extension=m3u8&play_token=H9EwnfCngf
+#EXTINF:0,TVP 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880520&extension=m3u8&play_token=2ZGymGZtsW
+#EXTINF:0,TVP 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880519&extension=m3u8&play_token=ULcYkpoUdX
+#EXTINF:0,TVP KOBIETA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121741&extension=m3u8&play_token=5wMUqNhb4k
+#EXTINF:0,TVP ROZRYWKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880237&extension=m3u8&play_token=tA4E4f3wJ9
+#EXTINF:0,TVP KULTURA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880387&extension=m3u8&play_token=8E7IENaapX
+#EXTINF:0,TVP KULTURA 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121742&extension=m3u8&play_token=1mjifAE6vu
+#EXTINF:0,TTV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880389&extension=m3u8&play_token=ief6c02R9b
+#EXTINF:0,TVN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880518&extension=m3u8&play_token=C0b3pc9R5o
+#EXTINF:0,TVN 7
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880517&extension=m3u8&play_token=rE0JDQqZhR
+#EXTINF:0,TVN FABULA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880516&extension=m3u8&play_token=Jdp8WgXoHU
+#EXTINF:0,TVN STYLE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880515&extension=m3u8&play_token=H4dNoe2jwP
+#EXTINF:0,TVN TURBO
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880514&extension=m3u8&play_token=YjsptM5zyR
+#EXTINF:0,TBN POLSKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1629540&extension=m3u8&play_token=5oNBjxEfqA
+#EXTINF:0,SUPER POLSAT
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880246&extension=m3u8&play_token=uxVx4hKOry
+#EXTINF:0,POLSAT
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880509&extension=m3u8&play_token=dbtkwhYbYm
+#EXTINF:0,POLSAT 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880508&extension=m3u8&play_token=bJ6uVw4xrc
+#EXTINF:0,POLSAT RODZINA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880506&extension=m3u8&play_token=jOqIXSa0n4
+#EXTINF:0,POLSAT CAFE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880404&extension=m3u8&play_token=tugEBJDRek
+#EXTINF:0,POLSAT GAMES
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880401&extension=m3u8&play_token=t5Awb4QMJC
+#EXTINF:0,POLSAT PLAY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880399&extension=m3u8&play_token=O5YhvJLE8m
+#EXTINF:0,PULS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880475&extension=m3u8&play_token=QK6TxwCL6O
+#EXTINF:0,PULS 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880479&extension=m3u8&play_token=fvLnGeBMUW
+#EXTINF:0,TV 4
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880510&extension=m3u8&play_token=HWdhpz6Gj6
+#EXTINF:0,TV 6
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880511&extension=m3u8&play_token=NNUlUkQ5Bu
+#EXTINF:0,TELE 5
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880230&extension=m3u8&play_token=JMBWRV50tn
+#EXTINF:0,ANTENA TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1060637&extension=m3u8&play_token=3AoOR9SPDi
+#EXTINF:0,TLC
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880474&extension=m3u8&play_token=yLH3UyQPP1
+#EXTINF:0,FOOD NETWORK
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880481&extension=m3u8&play_token=xmvD0owVPU
+#EXTINF:0,HGTV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880385&extension=m3u8&play_token=tsy8A4QeQK
+#EXTINF:0,HOME TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880214&extension=m3u8&play_token=m7DhdMc0ij
+#EXTINF:0,DOMO+
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880424&extension=m3u8&play_token=dpxGkh8hEY
+#EXTINF:0,KUCHNIA+
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880415&extension=m3u8&play_token=kYYdiPAkt4
+#EXTINF:0,ACTIVE FAMILY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880234&extension=m3u8&play_token=ClraPGC5ho
+#EXTINF:0,METRO
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880212&extension=m3u8&play_token=j2bSuVrLBK
+#EXTINF:0,TVS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880201&extension=m3u8&play_token=WhqaFdqWiT
+#EXTINF:0,NOWA TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880407&extension=m3u8&play_token=z6rqnfxAva
+#EXTINF:0,ZOOM TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880190&extension=m3u8&play_token=IQRfDE9egF
+#EXTINF:0,E! ENTERTAINMENT
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880422&extension=m3u8&play_token=sGq8ptTOBy
+#EXTINF:0,WP
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880192&extension=m3u8&play_token=r8Z77q9xPQ
+#EXTINF:0,TVP POLONIA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880242&extension=m3u8&play_token=zz5oY8Ynla
+#EXTINF:0,TVP POLONIA 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880241&extension=m3u8&play_token=uiQ0pqhWag
+#EXTINF:0,TRWAM TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=884764&extension=m3u8&play_token=eVMYrFE6s1
+#EXTINF:0,CANAL+ PREMIUM
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880498&extension=m3u8&play_token=sdUzjJwxxo
+#EXTINF:0,CANAL+ 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880501&extension=m3u8&play_token=66aoQVlJIy
+#EXTINF:0,CANAL+ FILM
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880491&extension=m3u8&play_token=Lgjb0v0YYg
+#EXTINF:0,CANAL+ 360
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880500&extension=m3u8&play_token=K9MOwXxnft
+#EXTINF:0,CANAL+ SERIALE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880497&extension=m3u8&play_token=7vVNzsthOh
+#EXTINF:0,HBO
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880494&extension=m3u8&play_token=ZSSOITStxf
+#EXTINF:0,HBO 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880496&extension=m3u8&play_token=lWnDMEp5ss
+#EXTINF:0,HBO 3
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880495&extension=m3u8&play_token=muUJh7eq9l
+#EXTINF:0,POLSAT FILM
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880505&extension=m3u8&play_token=zsxz3XouI9
+#EXTINF:0,PARAMOUNT CHANNEL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880472&extension=m3u8&play_token=9Xh7L8VtqT
+#EXTINF:0,WARNER TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880473&extension=m3u8&play_token=SLdPHIDKza
+#EXTINF:0,13 ULICA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880492&extension=m3u8&play_token=MD1QSAf6FO
+#EXTINF:0,AMC
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880433&extension=m3u8&play_token=puP8Gs6hC3
+#EXTINF:0,AXN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880490&extension=m3u8&play_token=httaVIOkob
+#EXTINF:0,AXN WHITE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880235&extension=m3u8&play_token=kjEMjZNKvH
+#EXTINF:0,AXN BLACK
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880236&extension=m3u8&play_token=1SAJ67G3RS
+#EXTINF:0,CINEMAX
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880485&extension=m3u8&play_token=jyUWcJlnLK
+#EXTINF:0,CINEMAX 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880488&extension=m3u8&play_token=FJ32bFKGNC
+#EXTINF:0,FILMBOX PREMIUM
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880483&extension=m3u8&play_token=VVZH0StWgU
+#EXTINF:0,FILMBOX EXTRA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880344&extension=m3u8&play_token=ldMkYqDiCD
+#EXTINF:0,FILMBOX ACTION
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880233&extension=m3u8&play_token=ryhAd4eRT2
+#EXTINF:0,FILMBOX FAMILY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880231&extension=m3u8&play_token=qj3eJV7ISJ
+#EXTINF:0,COMEDY CENTRAL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880487&extension=m3u8&play_token=IrRfvohlfV
+#EXTINF:0,POLSAT COMEDY CENTRAL EXTRA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880403&extension=m3u8&play_token=LHYsRSGURe
+#EXTINF:0,COMEDY CENTRAL POLAND
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880486&extension=m3u8&play_token=uGyUq2s504
+#EXTINF:0,KINO TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880478&extension=m3u8&play_token=LszTRYsTcc
+#EXTINF:0,KINO POLSKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880476&extension=m3u8&play_token=D508FpOtTV
+#EXTINF:0,TVP SERIALE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880189&extension=m3u8&play_token=pw0CG5rkak
+#EXTINF:0,POLSAT SERIALE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880507&extension=m3u8&play_token=uEtZCWJbHz
+#EXTINF:0,FOX
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880477&extension=m3u8&play_token=ucVRlttX8L
+#EXTINF:0,FOX COMEDY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880480&extension=m3u8&play_token=5MP3x8Meu7
+#EXTINF:0,SCIFI UNIVERSAL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880451&extension=m3u8&play_token=cYXoU65SkI
+#EXTINF:0,CBS EUROPA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880431&extension=m3u8&play_token=zkInZoUVpX
+#EXTINF:0,EPIC DRAMA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880421&extension=m3u8&play_token=cCG7qoLW1K
+#EXTINF:0,STOPKLATKA TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880229&extension=m3u8&play_token=TBlvBxw561
+#EXTINF:0,SUNDANCE TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880392&extension=m3u8&play_token=FOqS7f5NQE
+#EXTINF:0,ROMANCE TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880254&extension=m3u8&play_token=oVK08PFD85
+#EXTINF:0,NOVELA TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880209&extension=m3u8&play_token=CIJcwWt5OP
+#EXTINF:0,NOVELAS+
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880410&extension=m3u8&play_token=CwdlFXopZe
+#EXTINF:0,RED CARPET TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880395&extension=m3u8&play_token=mB6wITXNej
+#EXTINF:0,VOD 205
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880197&extension=m3u8&play_token=LNilAtZDTe
+#EXTINF:0,VOD 206
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880196&extension=m3u8&play_token=n2DHKjH2cV
+#EXTINF:0,VOD 207
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880195&extension=m3u8&play_token=RFUVvbzpQa
+#EXTINF:0,VOD 208
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880194&extension=m3u8&play_token=XTe4YqZARP
+#EXTINF:0,TVN CZAS NA ŚLUB
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1649893&extension=m3u8&play_token=Hul9i3SoF0
+#EXTINF:0,TVN KULINARNE PODRÓŻE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1649891&extension=m3u8&play_token=yjt8CFs50j
+#EXTINF:0,TVN PATROL ONLINE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1649889&extension=m3u8&play_token=7f0xOVfBT3
+#EXTINF:0,TVN KRYMINALNIE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433874&extension=m3u8&play_token=jDTNQwJ0E6
+#EXTINF:0,TVN KULTOWE SERIALE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433876&extension=m3u8&play_token=xq5Njr4DY2
+#EXTINF:0,TVN MOMENTY PRAWDY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433878&extension=m3u8&play_token=71MLWxHnbC
+#EXTINF:0,TVN MOTO
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433880&extension=m3u8&play_token=neFp8pc9gQ
+#EXTINF:0,TVN PRAWO I ŻYCIE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433882&extension=m3u8&play_token=tpzXkpfEjX
+#EXTINF:0,TVN RAJSKA MIŁOŚĆ
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433884&extension=m3u8&play_token=q5kJHeJPLg
+#EXTINF:0,TVN REWOLUCJE W KUCHNI
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433886&extension=m3u8&play_token=XM7nQyVoOq
+#EXTINF:0,TVN SERIAL O KOBIETACH
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433888&extension=m3u8&play_token=Oe6Yj6EKUQ
+#EXTINF:0,TVN SZKOŁA ŻYCIA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433890&extension=m3u8&play_token=NVl3ZRVkjP
+#EXTINF:0,TVN SZPITALNE HISTORIE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433892&extension=m3u8&play_token=jcYvv6eSKS
+#EXTINF:0,TVN TALK-SHOW
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433894&extension=m3u8&play_token=X9gyC1Qoew
+#EXTINF:0,TVN TELENOWELE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433896&extension=m3u8&play_token=5Joa16MFAi
+#EXTINF:0,TVN USTERKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433898&extension=m3u8&play_token=5A5V5AdTfI
+#EXTINF:0,TVN W DOMU
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433900&extension=m3u8&play_token=tevhe5XpZ9
+#EXTINF:0,TVN MILIONERZY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1496498&extension=m3u8&play_token=KZqAWaMCj8
+#EXTINF:0,TVN ŻYCIE JAK W BAJCE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1433902&extension=m3u8&play_token=S8NMegQafr
+#EXTINF:0,DA VINCI LEARNING
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880224&extension=m3u8&play_token=eYC1xHL23I
+#EXTINF:0,TVP ABC
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880239&extension=m3u8&play_token=N0lbOOhYZT
+#EXTINF:0,TVP ABC 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121740&extension=m3u8&play_token=IJgQ5akYgu
+#EXTINF:0,DUCK TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121750&extension=m3u8&play_token=c5SjeynqjC
+#EXTINF:0,DUCK TV PLUS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121751&extension=m3u8&play_token=A8RPwFsReC
+#EXTINF:0,BBC CBEEBIES
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880226&extension=m3u8&play_token=phWV4q0X1S
+#EXTINF:0,TOP KIDS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=897016&extension=m3u8&play_token=8Iojza6GF3
+#EXTINF:0,BABY TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880225&extension=m3u8&play_token=vftRWcP1ub
+#EXTINF:0,4FUN KIDS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1035704&extension=m3u8&play_token=UYtLJlcEhX
+#EXTINF:0,NICK JR POLSKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880211&extension=m3u8&play_token=Vtbs3Vxzo7
+#EXTINF:0,NICK MUSIC
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121757&extension=m3u8&play_token=jz1oQoXFii
+#EXTINF:0,TEENNICK
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880411&extension=m3u8&play_token=QS6AcZF7Ha
+#EXTINF:0,NICKELODEON
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880210&extension=m3u8&play_token=UXTv1M5OY7
+#EXTINF:0,NICKTOONS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880412&extension=m3u8&play_token=mlAmumJyl2
+#EXTINF:0,POLSAT JIM JAM
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880206&extension=m3u8&play_token=C5QRV12l56
+#EXTINF:0,DISNEY CHANNEL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880285&extension=m3u8&play_token=DfkRxph4Ea
+#EXTINF:0,DISNEY JUNIOR
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880219&extension=m3u8&play_token=91XMj32sni
+#EXTINF:0,DISNEY XD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880218&extension=m3u8&play_token=gI4MUjk9D8
+#EXTINF:0,BOOMERANG
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880443&extension=m3u8&play_token=HJ42vCFNdu
+#EXTINF:0,TELETOON+
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880390&extension=m3u8&play_token=4X8Ju5PCjl
+#EXTINF:0,MINIMINI
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880414&extension=m3u8&play_token=JBZW88o0XQ
+#EXTINF:0,CARTOON NETWORK
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880432&extension=m3u8&play_token=LMLJcggmyy
+#EXTINF:0,LOVE NATURE 4K+
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1131804&extension=m3u8&play_token=L7ffzpKfQx
+#EXTINF:0,TRAVEL CHANNEL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880445&extension=m3u8&play_token=5mCnNDbHQx
+#EXTINF:0,ANIMAL PLANET
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880437&extension=m3u8&play_token=SP0R7hLOZH
+#EXTINF:0,ADVENTURE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880434&extension=m3u8&play_token=FjadHXoJ7r
+#EXTINF:0,BBC BRIT
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880450&extension=m3u8&play_token=QApqfWDXaP
+#EXTINF:0,BBC EARTH
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880436&extension=m3u8&play_token=ICtNAVfA5r
+#EXTINF:0,BBC FIRST
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880309&extension=m3u8&play_token=X2fPKpIPhd
+#EXTINF:0,BBC LIFESTYLE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880435&extension=m3u8&play_token=zv7Hd4t9fR
+#EXTINF:0,CBS REALITY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880430&extension=m3u8&play_token=7j3DlyLXkf
+#EXTINF:0,CANAL+ DOKUMENT
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880442&extension=m3u8&play_token=uiYNm3X7Df
+#EXTINF:0,DISCOVERY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880428&extension=m3u8&play_token=1zdQEABCCD
+#EXTINF:0,DISCOVERY SCIENCE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880426&extension=m3u8&play_token=Kg4r8ZVjRi
+#EXTINF:0,DISCOVERY LIFE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880427&extension=m3u8&play_token=rk79JSzfbn
+#EXTINF:0,DISCOVERY HISTORIA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1530077&extension=m3u8&play_token=j6f44bvQvm
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880438&extension=m3u8&play_token=t4cB4FYDQ5
+#EXTINF:0,NAT GEO WILD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880439&extension=m3u8&play_token=7wqjqLrsxx
+#EXTINF:0,NAT GEO PEOPLE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880440&extension=m3u8&play_token=ITr1AljuUD
+#EXTINF:0,ID
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880416&extension=m3u8&play_token=jgMKKEzwiU
+#EXTINF:0,CRIME AND INVESTIGATION
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880429&extension=m3u8&play_token=m7DvsWivBo
+#EXTINF:0,DTX
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880423&extension=m3u8&play_token=qrq6J5pPq9
+#EXTINF:0,HISTORY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880384&extension=m3u8&play_token=P9TQ47l30M
+#EXTINF:0,H2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880418&extension=m3u8&play_token=hMpdRuMarV
+#EXTINF:0,PLANETE+
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880405&extension=m3u8&play_token=nnRQpTRcbD
+#EXTINF:0,POLSAT DOKU
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880402&extension=m3u8&play_token=0nkQryMcm2
+#EXTINF:0,POLSAT VIASAT HISTORY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880397&extension=m3u8&play_token=YsqBYLHqnT
+#EXTINF:0,POLSAT VIASAT EXPLORE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880258&extension=m3u8&play_token=rfKTw0NTSz
+#EXTINF:0,POLSAT VIASAT NATURE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880396&extension=m3u8&play_token=uFQwMu7gmf
+#EXTINF:0,FOKUS TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880482&extension=m3u8&play_token=B98dwVdsci
+#EXTINF:0,STUDIOMED TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880253&extension=m3u8&play_token=flN1a4gbCO
+#EXTINF:0,TVP DOKUMENT
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880388&extension=m3u8&play_token=KCzDmvAi8F
+#EXTINF:0,TVP HISTORIA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880238&extension=m3u8&play_token=Bqf1jtZYz8
+#EXTINF:0,TVP HISTORIA 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121743&extension=m3u8&play_token=Zu6eEnag3e
+#EXTINF:0,ELEVEN SPORTS 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880457&extension=m3u8&play_token=gvUrejt4WI
+#EXTINF:0,ELEVEN SPORTS 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880456&extension=m3u8&play_token=5QcxWpI7WN
+#EXTINF:0,ELEVEN SPORTS 3
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880455&extension=m3u8&play_token=5Hk5ENW50W
+#EXTINF:0,ELEVEN SPORTS 4
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880454&extension=m3u8&play_token=2bNfCPupm2
+#EXTINF:0,EUROSPORT 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880453&extension=m3u8&play_token=ti463ENDR8
+#EXTINF:0,EUROSPORT 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880452&extension=m3u8&play_token=ZyakdKCCvJ
+#EXTINF:0,CANAL+ NOW
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880499&extension=m3u8&play_token=QLZcHDLsC2
+#EXTINF:0,CANAL+ SPORT
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880461&extension=m3u8&play_token=rUCjJJvWhX
+#EXTINF:0,CANAL+ SPORT 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880460&extension=m3u8&play_token=GG13BXTNwH
+#EXTINF:0,CANAL+ SPORT 3
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880459&extension=m3u8&play_token=lxu1QJMyho
+#EXTINF:0,CANAL+ SPORT 4
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880458&extension=m3u8&play_token=TTa33eumNT
+#EXTINF:0,CANAL+ SPORT 5
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880406&extension=m3u8&play_token=a9kOzBaFuR
+#EXTINF:0,POLSAT SPORT 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880471&extension=m3u8&play_token=F9fLiZZYFB
+#EXTINF:0,POLSAT SPORT 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880470&extension=m3u8&play_token=SLqa5pIxp6
+#EXTINF:0,POLSAT SPORT 3
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880468&extension=m3u8&play_token=dPw3dGgfy6
+#EXTINF:0,POLSAT SPORT PREMIUM 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880467&extension=m3u8&play_token=tLW1tTX50e
+#EXTINF:0,POLSAT SPORT PREMIUM 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880466&extension=m3u8&play_token=zlhaHsO9wW
+#EXTINF:0,POLSAT SPORT PREMIUM 3
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880465&extension=m3u8&play_token=UDnkNOMk3M
+#EXTINF:0,POLSAT SPORT PREMIUM 4
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880464&extension=m3u8&play_token=lByopvznjg
+#EXTINF:0,POLSAT SPORT PREMIUM 5
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880463&extension=m3u8&play_token=WeIvWMrWtI
+#EXTINF:0,POLSAT SPORT PREMIUM 6
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880462&extension=m3u8&play_token=kVXX3UWyHy
+#EXTINF:0,POLSAT SPORT FIGHT
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880469&extension=m3u8&play_token=BpkFV4o26p
+#EXTINF:0,TVP SPORT
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880502&extension=m3u8&play_token=oYzY2bruRJ
+#EXTINF:0,SPORTKLUB
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880447&extension=m3u8&play_token=Jh3D3iFOfz
+#EXTINF:0,FIGHTKLUB
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880420&extension=m3u8&play_token=QZqENgMZQU
+#EXTINF:0,EXTREME SPORTS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880448&extension=m3u8&play_token=HncOhh9yld
+#EXTINF:0,GOLF CHANNEL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880419&extension=m3u8&play_token=2tndPf6mY1
+#EXTINF:0,MOTOWIZJA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880413&extension=m3u8&play_token=n10hhyCWgi
+#EXTINF:0,EUROSPORT 4
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1602008&extension=m3u8&play_token=ly7ueiY1U2
+#EXTINF:0,EUROSPORT 5
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1602009&extension=m3u8&play_token=yH7xnDhMSq
+#EXTINF:0,TVN 24
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880512&extension=m3u8&play_token=GnpHwpvSYb
+#EXTINF:0,TVN 24 BIS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880513&extension=m3u8&play_token=qwJPQvwEM6
+#EXTINF:0,TVP INFO
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880503&extension=m3u8&play_token=9uycKIIUfd
+#EXTINF:0,TVP WORLD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121739&extension=m3u8&play_token=07uw3ronmj
+#EXTINF:0,POLSAT NEWS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880441&extension=m3u8&play_token=ZF7X5pZTHM
+#EXTINF:0,POLSAT NEWS 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880227&extension=m3u8&play_token=KRmbpqNMfB
+#EXTINF:0,POLSAT NEWS POLITYKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1137583&extension=m3u8&play_token=WIzBQFMAtC
+#EXTINF:0,BIZNES24
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880444&extension=m3u8&play_token=n3N8M2Pr6z
+#EXTINF:0,WPOLSCE 24
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880191&extension=m3u8&play_token=Og65FL1nQ4
+#EXTINF:0,TV REPUBLIKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880203&extension=m3u8&play_token=uUMeJ7cWSP
+#EXTINF:0,ESKA TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880216&extension=m3u8&play_token=9yeOnSYq1D
+#EXTINF:0,ESKA TV EXTRA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880215&extension=m3u8&play_token=O7OOHFKDz6
+#EXTINF:0,ESKA ROCK TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880217&extension=m3u8&play_token=9Xvr0ORzUa
+#EXTINF:0,4FUN.TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880220&extension=m3u8&play_token=A6cjG7U9yX
+#EXTINF:0,4FUN DANCE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880222&extension=m3u8&play_token=YiMt2nOLof
+#EXTINF:0,4FUN GOLD HITS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880221&extension=m3u8&play_token=4juvWE2kO3
+#EXTINF:0,STARS.TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880204&extension=m3u8&play_token=Ky03trwoi8
+#EXTINF:0,MUSIC BOX POLSKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880199&extension=m3u8&play_token=uphOR2LNhC
+#EXTINF:0,KINO POLSKA MUZYKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880213&extension=m3u8&play_token=E0SjgjviMa
+#EXTINF:0,POLSAT MUSIC
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880400&extension=m3u8&play_token=IIkZWbfk5V
+#EXTINF:0,MTV LIVE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880409&extension=m3u8&play_token=J9qdCqnNiJ
+#EXTINF:0,MTV POLSKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880408&extension=m3u8&play_token=BdK718Wi0c
+#EXTINF:0,MTV 00S
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121761&extension=m3u8&play_token=UapUHoIYPP
+#EXTINF:0,MTV 80S
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880208&extension=m3u8&play_token=PR1vnHxRm3
+#EXTINF:0,VOX MUSIC TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880198&extension=m3u8&play_token=HaKAvNpOjo
+#EXTINF:0,POWER TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880205&extension=m3u8&play_token=AV54YU3KwH
+#EXTINF:0,DISCO POLO MUSIC
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121755&extension=m3u8&play_token=p8G82rpB9z
+#EXTINF:0,POLO TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=880383&extension=m3u8&play_token=ERrzR2HcBC
+#EXTINF:0,MEZZO
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121752&extension=m3u8&play_token=VLstzDnvRT
+#EXTINF:0,MEZZO LIVE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1121753&extension=m3u8&play_token=PZGW6DTaMS
+#EXTINF:0,TVP3 BIALYSTOK
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936815&extension=m3u8&play_token=THuPO31k6n
+#EXTINF:0,TVP3 BYDGOSZCZ
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936816&extension=m3u8&play_token=xfNR8ryKsD
+#EXTINF:0,TVP3 GDANSK
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936817&extension=m3u8&play_token=Pkyg7Fa6SK
+#EXTINF:0,TVP3 GORZOW
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936818&extension=m3u8&play_token=5at74f3Xcb
+#EXTINF:0,TVP3 KATOWICE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936819&extension=m3u8&play_token=y3fam0Tgmb
+#EXTINF:0,TVP3 KIELCE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936820&extension=m3u8&play_token=KdLu4yQrxH
+#EXTINF:0,TVP3 KRAKOW
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936821&extension=m3u8&play_token=lBnl70ukEt
+#EXTINF:0,TVP3 LUBLIN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936834&extension=m3u8&play_token=V04wYgoBz3
+#EXTINF:0,TVP3 LODZ
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936835&extension=m3u8&play_token=2WZbzRXhXW
+#EXTINF:0,TVP3 OLSZTYN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936836&extension=m3u8&play_token=VRe84LQGc7
+#EXTINF:0,TVP3 OPOLE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936837&extension=m3u8&play_token=ZAUk0MxfvH
+#EXTINF:0,TVP3 POZNAN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936838&extension=m3u8&play_token=hIbCKUnWiK
+#EXTINF:0,TVP3 RZESZOW
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936839&extension=m3u8&play_token=P0nTZdbJw1
+#EXTINF:0,TVP3 SZCZECIN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936948&extension=m3u8&play_token=xRqQ1dnNe9
+#EXTINF:0,TVP3 WARSZAWA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=936950&extension=m3u8&play_token=wIXWltpL4b
+#EXTINF:0,TVP 3
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691148&extension=m3u8&play_token=SfrKRPeSqp
+#EXTINF:0,CANAL+ KUCHNIA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691135&extension=m3u8&play_token=N4B84YFACU
+#EXTINF:0,CANAL+ DOMO
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691134&extension=m3u8&play_token=wGvUT9Vo3k
+#EXTINF:0,POLSAT CRIME & INVESTIGATION
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691129&extension=m3u8&play_token=kJPgk4GocB
+#EXTINF:0,FILMBOX ARTHOUSE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691122&extension=m3u8&play_token=CVCypKccIi
+#EXTINF:0,ALE KINO+
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691114&extension=m3u8&play_token=MMG6JVjvX8
+#EXTINF:0,Alfa TVP
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691113&extension=m3u8&play_token=mNkpUtTm8O
+#EXTINF:0,AXN SPIN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691110&extension=m3u8&play_token=TK6Gtk2ohx
+#EXTINF:0,BBC NEWS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691105&extension=m3u8&play_token=aXPdw4nJhY
+#EXTINF:0,BIZNES 24  
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691104&extension=m3u8&play_token=5BG8PxRj2N
+#EXTINF:0,BLOOMBERG EUROPEAN TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691103&extension=m3u8&play_token=4NoZfPNSdF
+#EXTINF:0,CBEE BIES
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691101&extension=m3u8&play_token=YZwMmxde8l
+#EXTINF:0,CNBC EUROPE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691096&extension=m3u8&play_token=LRuVImXpTe
+#EXTINF:0,CNN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691095&extension=m3u8&play_token=NRqVdDa3qz
+#EXTINF:0,DEUTSCHE WELLE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691093&extension=m3u8&play_token=SijUZ4HWZF
+#EXTINF:0,EURO NEWS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691081&extension=m3u8&play_token=9lC22SHJpn
+#EXTINF:0,FRANCE 24 ENG
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691079&extension=m3u8&play_token=wdNTyaiL0w
+#EXTINF:0,FRANCE 24 FRA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691078&extension=m3u8&play_token=U2xwgnealm
+#EXTINF:0,FX
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691077&extension=m3u8&play_token=ExQkhIJw5z
+#EXTINF:0,FX COMEDY
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691076&extension=m3u8&play_token=3vFLXF1ohI
+#EXTINF:0,HISTORY 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691074&extension=m3u8&play_token=X9gurBfcov
+#EXTINF:0,ID PLAND
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691072&extension=m3u8&play_token=44qYB9czKx
+#EXTINF:0,METRO TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691068&extension=m3u8&play_token=YiGpNGz1FH
+#EXTINF:0,MINIMINI+
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691067&extension=m3u8&play_token=0J2j2CDdHW
+#EXTINF:0,MTV 90s
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691065&extension=m3u8&play_token=OUeEZB0QZC
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691061&extension=m3u8&play_token=HMU0oIS5rU
+#EXTINF:0,NHK WORLD-JAPAN
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691060&extension=m3u8&play_token=BaLc5DjKPH
+#EXTINF:0,NUTA.TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691057&extension=m3u8&play_token=5EUwU61qDm
+#EXTINF:0,PARAMOUNT NETWORK POLSKA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691056&extension=m3u8&play_token=qJ9DJhxpd5
+#EXTINF:0,SCI FI
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691050&extension=m3u8&play_token=QN2HjrjFkC
+#EXTINF:0,SEJM RP
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691049&extension=m3u8&play_token=xtzh5mUBNX
+#EXTINF:0,STARS TV
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691048&extension=m3u8&play_token=X4OxjmfjXu
+#EXTINF:0,TV PULS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691042&extension=m3u8&play_token=wyTxUSI4QI
+#EXTINF:0,TVP 3 GORZÓW WIELKOPOLSKI
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691030&extension=m3u8&play_token=JWkEZoGEid
+#EXTINF:0,TVP 3 KRAKÓW
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691027&extension=m3u8&play_token=6e0vfw18YJ
+#EXTINF:0,TVP 3 LÓDZ
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691025&extension=m3u8&play_token=mDcLUt5m49
+#EXTINF:0,TVP 3 RZESZÓW
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691021&extension=m3u8&play_token=XnYAObv57V
+#EXTINF:0,TVP 3 WROCLAW
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691019&extension=m3u8&play_token=vTFa2TlerY
+#EXTINF:0,CANAL+ EVENT 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691176&extension=m3u8&play_token=EsI5mDC1wf
+#EXTINF:0,CANAL+ EVENT 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691175&extension=m3u8&play_token=49XbF7kLRk
+#EXTINF:0,CANAL+ EVENT 3
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691174&extension=m3u8&play_token=rzpbV4skfl
+#EXTINF:0,CANAL+ EVENT 4
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691173&extension=m3u8&play_token=rZXr2Y2Mlv
+#EXTINF:0,CANAL+ EXTRA 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691171&extension=m3u8&play_token=xUoxWAh4oW
+#EXTINF:0,CANAL+ EXTRA 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691170&extension=m3u8&play_token=WniC2RKl7c
+#EXTINF:0,CANAL+ EXTRA 3
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691169&extension=m3u8&play_token=joeEAS4poz
+#EXTINF:0,CANAL+ EXTRA 4
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691168&extension=m3u8&play_token=JYFSUDoWqk
+#EXTINF:0,CANAL+ EXTRA 5
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691167&extension=m3u8&play_token=9DRJjXCNBJ
+#EXTINF:0,CANAL+ EXTRA 6
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691166&extension=m3u8&play_token=Uro75IEisj
+#EXTINF:0,CANAL+ EXTRA 7
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691165&extension=m3u8&play_token=mHK0UxysLi
+#EXTINF:0,CANAL+ SPORT 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:B5:42:EA&stream=1691164&extension=m3u8&play_token=DgbtsM4Vxp
